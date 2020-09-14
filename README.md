@@ -60,3 +60,13 @@ npm start
 ```sh
 npm test
 ```
+
+## Bundle client files to be served through server
+
+Install dependencies and bundle client files:
+
+```
+cd client
+npm install
+npm start
+```
